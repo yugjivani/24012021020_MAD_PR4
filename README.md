@@ -389,7 +389,7 @@ This practical is based on the **MAD 2025** course material provided by Ganpat U
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yug%20Jivani-181717?style=for-the-badge&logo=github)](https://github.com/jayshilpatel29)
+[![GitHub](https://img.shields.io/badge/GitHub-Yug%20Jivani-181717?style=for-the-badge&logo=github)](https://github.com/yugjivani)
 
 </div>
 
